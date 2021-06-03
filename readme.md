@@ -9,3 +9,4 @@ This project trains a bag of words model for football, motorcycle, dollar bill a
 
 ### Histograms:
 ![football](https://github.com/delzadbamji/OpenCV-Bag-of-Words/blob/main/FBHistoBOW.jpeg)
+![accordian](https://github.com/delzadbamji/OpenCV-Bag-of-Words/blob/main/accordianHistoBOW.jpeg)
