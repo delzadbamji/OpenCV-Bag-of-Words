@@ -3,5 +3,8 @@ This project trains a bag of words model for football, motorcycle, dollar bill a
 
 
 
-Results:
+### Results:
 ![football](https://github.com/delzadbamji/OpenCV-Bag-of-Words/blob/main/FBBOW.jpeg)
+
+### Histograms:
+![football](https://github.com/delzadbamji/OpenCV-Bag-of-Words/blob/main/FBHistoBOW.jpeg)
