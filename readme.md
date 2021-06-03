@@ -1,5 +1,5 @@
 # OpenCV-Bag-of-Words
-This project trains a bag of words model for football, motorcycle, dollar bill and an accordian. I have generated the resulting keypoints on the image itself and later generate a histogram of the keypoints detected. The testing results are logged in the console.
+This project trains a bag of words model for football, motorcycle, dollar bill and an accordian. I have generated the resulting keypoints on the image itself and later generate a histogram of the keypoints detected. The testing results are logged in the terminal.
 
 
 
